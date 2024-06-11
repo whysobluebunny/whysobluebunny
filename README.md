@@ -1,5 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Artyom</h1>
-<h3 align="center">Software Engineer with QA Engineering experience Studied Software Engineering at Computer Science Faculty, HSE University, Moscow, Russia</h3>
+<h3 align="center">Software Engineer with QA Engineering experience </h3>
+<h3 align="center">Studied Software Engineering at Computer Science Faculty, HSE University, Moscow, Russia</h3>
 
 - 🔭 I’m currently working at **MOEX NCC** as **Automated QA Engineer
 
