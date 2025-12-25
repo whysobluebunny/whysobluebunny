@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working at **Sber** as **Automated QA Engineer
 
-- 🌱 I’m currently learning **Spring, Django, FastAPI**
-
-- 👯 I’m looking to switch to **Backend Development**
-
 - 📫 How to reach me **wsb.bart@gmail.com**
 
 - 📄 Know about my experiences [Habr](https://hh.ru/resume/5198c30dff0d4cfb2b0039ed1f326e6a454f71) [HeadHunter](https://career.habr.com/whyssobluebunny)
